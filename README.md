@@ -8,7 +8,7 @@
  Grey= Past,
  Red= Present,
  Green= Future,
- The program will automaticaly update the current state of the planner based on the time of you local machine.
+ The program will automaticaly update the current state of the planner based on the time of your local machine.
  
  The user information will be saved to local storage. 
 
