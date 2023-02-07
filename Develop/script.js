@@ -35,6 +35,7 @@ function loadHours (format) {
   $('#hours').append(hourContent)
   }
 }
+//Display on the top Name of day, Month and Number of the day using day.js format. 'ddd MMMM D'
   var format = 'hh A'
   loadHours(format)
   var currentDate=dayjs().format(' dddd MMMM D ')
