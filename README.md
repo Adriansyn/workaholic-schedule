@@ -5,9 +5,9 @@
  
  It contains one section per one hour of the day, therefore; you will be able to add comments or task to the planner according to the hour you set you task to. 
  
- Grey= Past
- Red= Present
- Green= Future
+ Grey= Past,
+ Red= Present,
+ Green= Future,
  The program will automaticaly update the current state of the planner based on the time of you local machine.
  
  The user information will be saved to local storage. 
